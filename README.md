@@ -8,6 +8,6 @@ Buses on the 401 route depart every 20 minutes on the hour. The service lasts da
 
 ## References
 
-Bus Eireann Timetable (401 Route)
+Bus Eireann Timetable (401 Route) 2018
 
 https://docs.scipy.org/doc/numpy/reference/routines.random.html
